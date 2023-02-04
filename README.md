@@ -1,4 +1,4 @@
-# Website-Kebudayaan-tailwindcss
+# Web-Design-Code
 Website kebudayaan daerah menggunakan Tailwindcss dan Aos JS
 
 > [LIVE DEMO](https://bethaarnt.github.io/Website-Kebudayaan-tailwindcss/)
